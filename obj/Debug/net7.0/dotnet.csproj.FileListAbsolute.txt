@@ -1,0 +1,15 @@
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\bin\Debug\net7.0\dotnet.exe
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\bin\Debug\net7.0\dotnet.deps.json
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\bin\Debug\net7.0\dotnet.runtimeconfig.json
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\bin\Debug\net7.0\dotnet.dll
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\bin\Debug\net7.0\dotnet.pdb
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.csproj.AssemblyReference.cache
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.dll
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\refint\dotnet.dll
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.pdb
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
+C:\Users\fariz.wisnu\Documents\fariz\belajar\dotnet\obj\Debug\net7.0\ref\dotnet.dll
